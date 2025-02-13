@@ -1,6 +1,6 @@
 # AIN-212-214
 HW1: Initial Data Exploration & Visualization
-In this project, I loaded a small dataset, cleaned missing and inconsistent values, and performed basic exploratory analysis. Using Python libraries such as Pandas and Seaborn, I visualized key features to quickly uncover trends and patterns.
+In this project, I loaded a small dataset, cleaned missing and inconsistent values, and performed basic exploratory analysis. Using Python libraries such as Pandas and MatPlotLib, I visualized key features to quickly uncover trends and patterns. Also I create tables using sqlite and applied various queries.
 
 HW2: SQL-Driven Data Analysis
 Here, I focused on writing efficient SQL queries to join multiple tables, group and filter data, and derive structured insights. This allowed me to merge SQL outputs with Python-based workflows for a more comprehensive analysis.
